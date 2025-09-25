@@ -22,7 +22,7 @@ It’s a simple and fun program that generates a random **band name** based on t
 3. It combines both answers and suggests a band name.  
 
 **Example Run:**  
-
+```python
 Welcome to the Band Name Generator.
 What's the name of the city you grew up in?
 
@@ -30,7 +30,7 @@ Toronto
 What's your pet's name?
 Luna
 Your band name could be Toronto Luna
-
+```
 
 ---
 
