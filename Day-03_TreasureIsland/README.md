@@ -5,6 +5,16 @@ Your mission is simple: **find the treasure without getting caught by traps, bea
 
 ---
 
+## 📖 What I Learned  
+Working on this project helped me practice and understand key Python concepts:
+
+-``if`` conditions → To control the game flow based on player choices.
+- ``if / else`` statements → To provide alternate outcomes (winning vs losing paths).
+- ``Nested`` if statements → To build multi-step decision logic (crossroad → lake → doors).
+- ``Logical operators`` → To handle multiple conditions and evaluate player input.
+
+---
+
 ## 🎮 Gameplay
 
 The game starts with an ASCII treasure map banner and welcomes you to Treasure Island.  
