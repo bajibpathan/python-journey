@@ -71,3 +71,8 @@ This project is inspired by
 **Dr. Angela Yu’s 100 Days of Python Coding Bootcamp (Udemy Course)**.  
 
 ---
+## 📜 License
+
+This project is for educational purposes. Feel free to use or modify it for your own learning or projects.
+
+---
