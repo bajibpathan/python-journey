@@ -62,7 +62,7 @@ HirstPainting/
 ## 🖌️ Example Output
 
 Below is a representation of what the output might look like (actual colors vary each run):
-
+```
 ● ● ● ● ● ● ● ● ● ●
 ● ● ● ● ● ● ● ● ● ●
 ● ● ● ● ● ● ● ● ● ●
@@ -73,7 +73,7 @@ Below is a representation of what the output might look like (actual colors vary
 ● ● ● ● ● ● ● ● ● ●
 ● ● ● ● ● ● ● ● ● ●
 ● ● ● ● ● ● ● ● ● ●
-
+```
 ---
 
 ## 💡 Concepts Learned
