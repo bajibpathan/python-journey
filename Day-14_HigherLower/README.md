@@ -8,6 +8,7 @@ Each correct guess increases your score — but one wrong move, and the game end
 ## 🎮 Game Overview
 
 In this game:
+
 - You’ll be shown **two famous personalities**.
 - You must guess who has **more followers**.
 - If your guess is right, your score increases and you continue.
@@ -34,10 +35,13 @@ In this game:
 ## 🧠 Key Functions
 
 ### `format_data(account)`
+
 Formats the data from `game_data.py` into a readable string:
+
 ```python
 "Cristiano Ronaldo, a footballer, from Portugal"
 ```
+
 ### `check_answer(user_guess, a_followers, b_followers)`
 
 Compares follower counts and returns whether the user’s guess is correct.
@@ -46,14 +50,15 @@ Compares follower counts and returns whether the user’s guess is correct.
 
 ## 🧰 Project Files
 
-|File Name|	Description|
-|--|--|
-|main.py|	Main game logic|
-|art.py|	Contains ASCII logos and VS graphic|
-|game_data.py|	List of dictionaries with celebrity data|
-|README.md|	Project documentation (this file)|
+| File Name    | Description                              |
+| ------------ | ---------------------------------------- |
+| main.py      | Main game logic                          |
+| art.py       | Contains ASCII logos and VS graphic      |
+| game_data.py | List of dictionaries with celebrity data |
+| README.md    | Project documentation (this file)        |
 
 ### 📦 Example Game Flow
+
 ```python
 Compare A: Ariana Grande, a pop singer, from USA
 vs
@@ -90,16 +95,19 @@ Basic ASCII art and text-based interface
 ## 🚀 How to Run the Game
 
 Clone this repository:
+
 ```
-git clone https://github.com/<your-username>/higher-lower-game.git
+git clone https://github.com/bajibpathan/higher-lower-game.git
 ```
 
 Navigate to the project folder:
+
 ```
 cd higher-lower-game
 ```
 
 Run the program:
+
 ```
 python main.py
 ```
@@ -113,6 +121,7 @@ Dr. Angela Yu’s 100 Days of Python Coding Bootcamp (Udemy Course).
 All learning credits go to her structured and fun teaching style.
 
 ---
+
 ## 📜 License
 
 This project is for educational purposes. Feel free to use or modify it for your own learning or projects.

@@ -70,13 +70,16 @@ Here is your latte ☕️. Enjoy!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/coffee-machine-oop.git
+   git clone https://github.com/bajibpathan/coffee-machine-oop.git
    ```
 2. Navigate to the folder:
+
 ```bash
 cd coffee-machine-oop
 ```
+
 3. Run the main program:
+
 ```bash
 python3 main.py
 ```
@@ -100,6 +103,7 @@ This project is inspired by the 100 Days of Python Bootcamp by Dr. Angela Yu on 
 I completed and documented it as part of my Python OOP learning journey.
 
 ---
+
 ## 📜 License
 
 This project is for educational purposes. Feel free to use or modify it for your own learning or projects.

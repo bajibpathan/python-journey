@@ -27,7 +27,6 @@ QuizBrain/
 └── README.md # Project documentation
 ```
 
-
 ---
 
 ## 🧩 How It Works
@@ -35,9 +34,9 @@ QuizBrain/
 1. Each question is stored as a dictionary in `data.py`.
 2. The `Question` class models each question with its text and correct answer.
 3. The `QuizBrain` class manages:
-   - Asking questions  
-   - Checking answers  
-   - Updating scores  
+   - Asking questions
+   - Checking answers
+   - Updating scores
 4. The `main.py` file ties everything together and runs the quiz loop until all questions are completed.
 
 ---
@@ -72,20 +71,22 @@ Your current score is: 2 / 2
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/quiz-brain.git
+   git clone https://github.com/bajibpathan/quiz-brain.git
    cd quiz-brain
    ```
 2. Run the game:
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python main.py
+   ```
 
 ---
+
 ## 🙏 Credits
 
 This project was inspired and developed as part of the **"100 Days of Code – The Complete Python Pro Bootcamp"** by Dr. Angela Yu on Udemy.
 
 ---
+
 ## 📜 License
 
 This project is for educational purposes. Feel free to use or modify it for your own learning or projects.
