@@ -1,7 +1,7 @@
 # 🐢 Turtle Crossing Game
 
 A fun and challenging arcade-style **Turtle Crossing Game** built using Python’s `turtle` graphics module.  
-The goal is simple — help the turtle cross a busy road while avoiding colorful, fast-moving cars!
+The goal is simple help the turtle cross a busy road while avoiding colorful, fast-moving cars!
 
 ---
 
