@@ -72,9 +72,9 @@ TurtleCrossingGame/
 
 ## 🏁 Game Rules
 
-🚗 If a car hits your turtle → Game Over!
-🐢 Each time you cross successfully → You advance a level.
-⚡ With every new level → Cars move faster!
+- 🚗 If a car hits your turtle → Game Over!
+- 🐢 Each time you cross successfully → You advance a level.
+- ⚡ With every new level → Cars move faster!
 
 ---
 
