@@ -8,7 +8,7 @@ The goal is simple — help the turtle cross a busy road while avoiding colorful
 ## 🎮 Game Objective
 
 Move the turtle 🐢 from the bottom to the top of the screen without colliding with any cars.  
-Each successful crossing increases the level — and makes the cars move faster 🚗💨!
+Each successful crossing increases the level and makes the cars move faster 🚗💨!
 
 ---
 
