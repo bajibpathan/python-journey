@@ -105,7 +105,7 @@ The CSV file (nato_phonetic_alphabet.csv) contains the standard NATO alphabet ma
 ## 🙌 Credits
 
 Inspired by Dr. Angela Yu’s 100 Days of Code Python Bootcamp project.
-Recreated and customized by Baji Pathan for learning and educational purposes.
+Recreated for learning and educational purposes.
 
 ---
 

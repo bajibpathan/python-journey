@@ -111,7 +111,7 @@ The x and y values correspond to coordinates on the map where the state name wil
 ## 🙌 Credits
 
 Inspired by Dr. Angela Yu’s Python Bootcamp Project (Day 25: U.S. States Game).
-Recreated and learned by Baji Pathan to strengthen Python data handling and visualization skills.
+Recreated to strengthen Python data handling and visualization skills.
 
 ---
 
